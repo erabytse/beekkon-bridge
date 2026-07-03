@@ -1,9 +1,12 @@
 <div align="center">
-<img src="logo.png">
-**The TCP/IP for AI Agents** - Secure communication protocol for the post-AI era.
+<img src="logo.png" alt="BKB">
+
+<strong><p><h3>The Protocol for AI Agents - Secure communication protocol for the
+post-AI era.</h3></p></strong>
+
 </div>
 
-## 🎯 What is BeekKon Bridge?
+## 🎯 What is BeekKon-Bridge?
 
 BeekKon Bridge is a peer-to-peer communication protocol designed specifically for AI agents. It provides:
 
@@ -45,7 +48,7 @@ agent.start()
 ## Request Another Agent
 
 ```python
-from beekon import BeekKonAgent
+from beekkon import BeekKonAgent
 
 agent = BeekKonAgent(
     name="client_agent",
