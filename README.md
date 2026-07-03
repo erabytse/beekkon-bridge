@@ -1,6 +1,5 @@
+<img width="1664" height="928" alt="logo" src="https://github.com/user-attachments/assets/95f8e334-7b6a-4e66-aebd-49cd664d3abc" alt="BKB" />
 <div align="center">
-<img src="logo.png" alt="BKB">
-
 <strong><p><h3>The Protocol for AI Agents - Secure communication protocol for the
 post-AI era.</h3></p></strong>
 
@@ -97,6 +96,9 @@ python examples/agent_crm.py
 # Terminal 4: Trigger workflow
 python examples/run_workflow.py
 ```
+
+<img width="1756" height="940" alt="BKB_Shower" src="https://github.com/user-attachments/assets/9e8d3557-e323-43d2-830b-20a9628425f7" />
+
 
 ### What happens
 
