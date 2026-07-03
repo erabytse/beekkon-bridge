@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "beekkon-bridge"
-version = "1.0.0"
+version = "1.1.0"
 description = "Secure communication protocol for AI agents - The TCP/IP for the post-AI era"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -40,6 +40,9 @@ dependencies = [
 Homepage = "https://github.com/erabytse/BeekKon-Bridge"
 Repository = "https://github.com/erabytse/BeekKon-Bridge"
 Issues = "https://github.com/erabytse/BeekKon-Bridge/issues"
+Changelog = "https://github.com/erabytse/beekkon-bridge/blob/main/CHANGELOG.md"
+Documentation = "https://github.com/erabytse/beekkon-bridge/tree/main/docs"
+
 
 [tool.setuptools.packages.find]
 where = ["."]

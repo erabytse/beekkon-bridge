@@ -6,6 +6,12 @@ post-AI era.</h3></p></strong>
 
 </div>
 
+<!--[![Tests](https://github.com/erabytse/beekkon-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/erabytse/beekkon-bridge/actions)-->
+
+[![PyPI version](https://badge.fury.io/py/beekon-bridge.svg)](https://badge.fury.io/py/beekon-bridge)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 🎯 What is BeekKon-Bridge?
 
 BeekKon Bridge is a peer-to-peer communication protocol designed specifically for AI agents. It provides:
