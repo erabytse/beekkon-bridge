@@ -91,6 +91,9 @@ python examples/agent_crm.py
 python examples/run_workflow.py
 ```
 
+<img width="1756" height="940" alt="BKB_Shower" src="https://github.com/user-attachments/assets/9e8d3557-e323-43d2-830b-20a9628425f7" />
+
+
 ### What happens
 
 1. Client requests onboarding via CRM
