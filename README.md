@@ -1,16 +1,15 @@
-<img width="1664" height="928" alt="logo" src="https://github.com/user-attachments/assets/95f8e334-7b6a-4e66-aebd-49cd664d3abc" alt="BKB" />
+<img width="920" height="380" alt="logo" src="https://github.com/user-attachments/assets/95f8e334-7b6a-4e66-aebd-49cd664d3abc" alt="BKB" />
 <div align="center">
 <strong><p><h3>The Protocol for AI Agents - Secure communication protocol for the
 post-AI era.</h3></p></strong>
 
-</div>
-
 <!--[![Tests](https://github.com/erabytse/beekkon-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/erabytse/beekkon-bridge/actions)-->
 
-[![PyPI version](https://badge.fury.io/py/beekon-bridge.svg)](https://badge.fury.io/py/beekon-bridge)
+[![PyPI version](https://badge.fury.io/py/beekkon-bridge.svg)](https://badge.fury.io/py/beekon-bridge)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+</div>
 ## 🎯 What is BeekKon-Bridge?
 
 BeekKon Bridge is a peer-to-peer communication protocol designed specifically for AI agents. It provides:
@@ -97,8 +96,7 @@ python examples/agent_crm.py
 python examples/run_workflow.py
 ```
 
-<img width="1756" height="940" alt="BKB_Shower" src="https://github.com/user-attachments/assets/9e8d3557-e323-43d2-830b-20a9628425f7" />
-
+<img width="820" height="320" alt="BKB_Shower" src="https://github.com/user-attachments/assets/9e8d3557-e323-43d2-830b-20a9628425f7" />
 
 ### What happens
 
