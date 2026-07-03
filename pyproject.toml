@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "beekkon-bridge"
+version = "1.0.0"
+description = "Secure communication protocol for AI agents - The TCP/IP for the post-AI era"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+
+authors = [
+    {name = "erabytse", email = "contact@fbfconsulting.org"}
+]
+
+maintainers = [
+    {name = "erabytse", email = "contact@fbfconsulting.org"}
+]
+
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: System :: Networking",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+keywords = ["ai", "agents", "protocol", "p2p", "encryption", "zero-knowledge"]
+dependencies = [
+    "PyNaCl>=1.5.0",
+    "msgpack>=1.0.5",
+]
+
+[project.urls]
+Homepage = "https://github.com/erabytse/BeekKon-Bridge"
+Repository = "https://github.com/erabytse/BeekKon-Bridge"
+Issues = "https://github.com/erabytse/BeekKon-Bridge/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["beekkon*"]
